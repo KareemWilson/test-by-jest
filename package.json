@@ -1,0 +1,23 @@
+{
+  "name": "test-by-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stringLength.js",
+  "scripts": {
+    "test": "jest",
+    "watch": " jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KareemWilson/test-by-jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KareemWilson/test-by-jest/issues"
+  },
+  "homepage": "https://github.com/KareemWilson/test-by-jest#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
